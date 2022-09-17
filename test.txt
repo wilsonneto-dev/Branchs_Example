@@ -1,5 +1,6 @@
 -> agendar aulas (corrigi o bugzinho)
 
+-> adicionou feature de envio de whatsapp
 
 -> o aluno ver saus aulas
 
